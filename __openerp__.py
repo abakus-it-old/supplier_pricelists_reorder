@@ -13,7 +13,6 @@ This modules creates a cron task that will reorder pricelists in products (using
 This module has been developed by Valentin THIRION @ AbAKUS it-solutions.
 """,
     'data': [
-            'view/supplier_pricelist_view.xml',
             'reorderer_cron.xml',
              ],
 }
